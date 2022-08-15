@@ -25,5 +25,8 @@ public class Day2GitGithub {
         System.out.println("Github'i da ogrendim ");
 
         System.out.println("Branch deneme 1");
+        System.out.println("Master deneme 1");
+
+
     }
 }

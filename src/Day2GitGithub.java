@@ -18,6 +18,8 @@ public class Day2GitGithub {
     Not : Github ogrendim
     7-) git pull --> REmote(yani uzak repo) dosyalarimizi guncellemek icin kullanilir
 
+    Not: Github cok eglenceli
+
      */
     public static void main(String[] args) {
         System.out.println("Github'i da ogrendim ");

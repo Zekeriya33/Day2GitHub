@@ -15,6 +15,8 @@ public class Day2GitGithub {
     kullaniriz
 
     6-) git log --oneline --> commit lerimdeki yani versiyonlarimdaki durumu gosterir
+    Not : Github ogrendim
+    7-) git pull --> REmote(yani uzak repo) dosyalarimizi guncellemek icin kullanilir
 
      */
     public static void main(String[] args) {
